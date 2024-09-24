@@ -8,7 +8,7 @@ This sample demonstrates using the MFC CDHtmlDialog class in MFC7
 
 <!-- Article image -->
 
-![Sample Image - DHTMLDialog.gif](DHTMLDialog/DHTMLDialog.gif)
+![Sample Image - DHTMLDialog.gif](https://raw.githubusercontent.com/ChrisMaunder/dhtmldialog/main/docs/assets/DHTMLDialog.gif)
 
 <!-- Main HTML starts here -->
 
